@@ -76,3 +76,4 @@ RegisterNumber:24005365
 
 **RESULTS**
 T flipflop using verilog is verified.
+
